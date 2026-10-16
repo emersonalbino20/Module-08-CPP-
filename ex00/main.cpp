@@ -16,7 +16,7 @@
 #include <deque>
 #include "easyfind.hpp"
 
-int main(void)
+int	main(void)
 {
 	std::vector<int> vec;
 	vec.push_back(1);

@@ -14,7 +14,7 @@
 #include <cstdlib>
 #include "Span.hpp"
 
-int main(void)
+int	main(void)
 {
     Span sp = Span(5);
     sp.addNumber(6);
